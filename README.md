@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/faozziyyah/responsivewebdesign)
+- Live Site URL: (https://faozziyyah.github.io/responsivewebdesign/)
 
 ## My process
 
@@ -37,6 +37,6 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- (https://youtube.com/watch?v=9cKsq14Kfsw) - This is an amazing article which helped me finally understand Bootstrap. I'd recommend it to anyone still learning this concept.
 
 
